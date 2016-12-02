@@ -69,7 +69,7 @@ Understanding Cookies
     * `Source code of website <http://webdev.training/index.php?chapter=login_management>`_
     * `Website itself <http://webdev.training/chapters/login_management/v2/main.php>`_
     * The password is "mysecretpassword"
-* How is a cookie set? What does across the wire?
+* How is a cookie set? What goes across the wire?
 * What is the difference between a persistent and a session cookie?
 * What is a third party cookie?
 * How do you set an expire time on a cookie? (See `cookie options <https://www.nczonline.net/blog/2009/05/05/http-cookies-explained/>`_)
